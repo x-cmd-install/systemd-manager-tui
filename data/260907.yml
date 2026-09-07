@@ -5,13 +5,13 @@ about:
   head: 8fea83c
   archived: false
   latestVersion: "v1.2.5"
-  collectedAt: 2026-09-07T04:27:07Z
+  collectedAt: 2026-09-07T19:56:52Z
 timeline:
   created: 2025-04-05
   lastCommit: 2026-08-03
   lastRelease: 2026-08-03
 popularity:
-  star: 1578
+  star: 1577
   watcher: 11
   fork: 22
   release: 12
@@ -81,7 +81,7 @@ total:
   commit: 338
 ---
 path: /home/runner/.x-repo/github.com/matheus-git/systemd-manager-tui
-collectedAt: 2026-09-07T04:27:08Z
+collectedAt: 2026-09-07T19:56:53Z
 loc:
   Rust:
     code: 2517
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:27:09+00:00
+  collectedAt: 2026-09-07T19:56:53+00:00
   platform:
     darwin/arm64:
       name:  systemd-manager-tui_1.2.5_arm64.deb
