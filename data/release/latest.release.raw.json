@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8054088,
       "digest": "sha256:8d506bd67a9fd5419d9696ddd67ef88359e96f48a98863dc75ac0fdb6dd76639",
-      "download_count": 276,
+      "download_count": 278,
       "created_at": "2026-08-03T00:32:57Z",
       "updated_at": "2026-08-03T00:33:00Z",
       "browser_download_url": "https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui"
