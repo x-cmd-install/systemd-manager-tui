@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.5"
   latestRelease: "v1.2.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:09:29Z
+  collectedAt: 2026-09-10T20:15:16Z
 timeline:
   created: 2025-04-05
   lastCommit: 2026-08-03
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-03
   lastPrerelease: 
 popularity:
-  star: 1577
+  star: 1579
   watcher: 11
   fork: 21
   release: 12
@@ -85,7 +85,7 @@ total:
   commit: 338
 ---
 path: /home/runner/.x-repo/github.com/matheus-git/systemd-manager-tui
-collectedAt: 2026-09-10T16:09:33Z
+collectedAt: 2026-09-10T20:15:19Z
 loc:
   Rust:
     code: 2517
