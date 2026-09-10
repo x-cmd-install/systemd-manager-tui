@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8054088,
       "digest": "sha256:8d506bd67a9fd5419d9696ddd67ef88359e96f48a98863dc75ac0fdb6dd76639",
-      "download_count": 282,
+      "download_count": 283,
       "created_at": "2026-08-03T00:32:57Z",
       "updated_at": "2026-08-03T00:33:00Z",
       "browser_download_url": "https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2241074,
       "digest": "sha256:53baf7b310d24f3c04b2526bafa4e799d1fd5a623cde77ecf0bf1c7d564b5df6",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-08-03T00:39:47Z",
       "updated_at": "2026-08-03T00:49:38Z",
       "browser_download_url": "https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.aarch64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2284162,
       "digest": "sha256:77eeb1e406b3fc089204c7ff846abdff96a6199feed142d1d5eddf74494eba8b",
-      "download_count": 40,
+      "download_count": 42,
       "created_at": "2026-08-03T00:34:44Z",
       "updated_at": "2026-08-03T00:49:38Z",
       "browser_download_url": "https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2131504,
       "digest": "sha256:26843579634740fb04f2b5fc018101bd46aa1fe50e97b03c40775f6663210565",
-      "download_count": 113,
+      "download_count": 114,
       "created_at": "2026-08-03T00:34:02Z",
       "updated_at": "2026-08-03T00:49:38Z",
       "browser_download_url": "https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_amd64.deb"
