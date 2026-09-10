@@ -23,7 +23,16 @@ x install systemd-manager-tui
 - **Latest**: `v1.2.5` (2026-08-03)
 - **Last commit**: 2026-08-03
 - **Assets in release**: 5
-- **Published**: 2026-08-03T00:41:59Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui) | 7.7 MiB | `other` |
+| [systemd-manager-tui-1.2.5.aarch64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.aarch64.rpm) | 2.1 MiB | `runtime/rpm/aarch64` |
+| [systemd-manager-tui-1.2.5.x86_64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.x86_64.rpm) | 2.2 MiB | `runtime/rpm/x86_64` |
+| [systemd-manager-tui_1.2.5_amd64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
+| [systemd-manager-tui_1.2.5_arm64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_arm64.deb) | 1.9 MiB | `runtime/deb/arm64` |
 
 ## Popularity
 
@@ -58,8 +67,8 @@ Total: **2,646** lines of code across **23** files in the top 5 languages.
 Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `systemd-manager-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/systemd-manager-tui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/systemd-manager-tui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:33:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:09:38Z._

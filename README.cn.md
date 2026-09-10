@@ -4,7 +4,7 @@
 
 A TUI application for managing systemd services.
 
-![systemd-manager-tui](https://repo.x-cmd.io/systemd-manager-tui.svg)
+![systemd-manager-tui](https://repo.x-cmd.io/systemd-manager-tui.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,16 @@ x install systemd-manager-tui
 - **最新版本**: `v1.2.5` (2026-08-03)
 - **最近提交**: 2026-08-03
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-08-03T00:41:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui) | 7.7 MiB | `other` |
+| [systemd-manager-tui-1.2.5.aarch64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.aarch64.rpm) | 2.1 MiB | `runtime/rpm/aarch64` |
+| [systemd-manager-tui-1.2.5.x86_64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.x86_64.rpm) | 2.2 MiB | `runtime/rpm/x86_64` |
+| [systemd-manager-tui_1.2.5_amd64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
+| [systemd-manager-tui_1.2.5_arm64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_arm64.deb) | 1.9 MiB | `runtime/deb/arm64` |
 
 ## 流行度
 
@@ -62,4 +71,4 @@ systemd-manager-tui 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:33:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:09:38Z._
