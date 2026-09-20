@@ -4,7 +4,7 @@
 
 A TUI application for managing systemd services.
 
-![systemd-manager-tui](https://repo.x-cmd.io/systemd-manager-tui.svg?lang=zh)
+[![x-cmd/install — systemd-manager-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/systemd-manager-tui.svg?lang=zh)](https://x-cmd.com/install/systemd-manager-tui)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install systemd-manager-tui
 
 ## 流行度
 
-- **Star**: 1,583 · **Fork**: 22 · **开放 issue**: 29 · **贡献者**: 5
+- **Star**: 1,582 · **Fork**: 22 · **开放 issue**: 29 · **贡献者**: 5
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install systemd-manager-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 0 | 0 | 0 | 36 |
-| last60d | 2026-07-20 | 1 | 4 | 0 | 2 | 1 | 43 |
-| 90d | 2026-06-20 | 1 | 4 | 0 | 2 | 1 | 43 |
-| last180d | 2026-03-22 | 1 | 4 | 0 | 3 | 1 | 43 |
-| 360d | 2025-09-23 | 6 | 9 | 0 | 10 | 5 | 101 |
-| last720d | 2024-09-28 | 12 | 43 | 0 | 24 | 5 | 377 |
+| 30d | 2026-08-21 | 0 | 3 | 0 | 0 | 0 | 36 |
+| last60d | 2026-07-22 | 1 | 4 | 0 | 1 | 1 | 42 |
+| 90d | 2026-06-22 | 1 | 4 | 0 | 2 | 1 | 43 |
+| last180d | 2026-03-24 | 1 | 4 | 0 | 3 | 1 | 43 |
+| 360d | 2025-09-25 | 6 | 9 | 0 | 10 | 5 | 101 |
+| last720d | 2024-09-30 | 12 | 43 | 0 | 24 | 5 | 377 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ systemd-manager-tui 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:34:12Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:58:23Z._
