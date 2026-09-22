@@ -14,11 +14,11 @@ x install systemd-manager-tui
 
 ## Code insight
 
-Total: **5,499** lines of code across **35** files in the top 5 languages.
+Total: **5,518** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,214 | 23 | 734 | 29 |
+| Rust | 5,233 | 23 | 739 | 29 |
 | Sh | 192 | 1 | 25 | 1 |
 | Nix | 48 | 0 | 8 | 1 |
 | Toml | 45 | 0 | 5 | 1 |
@@ -33,27 +33,27 @@ Total: **5,499** lines of code across **35** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.5` (2026-08-03)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-21
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,582 · **Forks**: 22 · **Open issues**: 29 · **Contributors**: 5
+- **Stars**: 1,582 · **Forks**: 22 · **Open issues**: 30 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 24 · **Open issues**: 5 · **Commits**: 377
+- **Releases**: 12 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 24 · **Open issues**: 6 · **Commits**: 379
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 3 | 0 | 0 | 0 | 36 |
-| last60d | 2026-07-23 | 1 | 4 | 0 | 1 | 1 | 42 |
-| 90d | 2026-06-23 | 1 | 4 | 0 | 2 | 1 | 43 |
-| last180d | 2026-03-25 | 1 | 4 | 0 | 3 | 1 | 43 |
-| 360d | 2025-09-26 | 6 | 9 | 0 | 10 | 5 | 101 |
-| last720d | 2024-10-01 | 12 | 43 | 0 | 24 | 5 | 377 |
+| 30d | 2026-08-23 | 0 | 3 | 0 | 0 | 1 | 38 |
+| last60d | 2026-07-24 | 1 | 4 | 0 | 1 | 2 | 44 |
+| 90d | 2026-06-24 | 1 | 4 | 0 | 2 | 2 | 45 |
+| last180d | 2026-03-26 | 1 | 4 | 0 | 3 | 2 | 45 |
+| 360d | 2025-09-27 | 6 | 9 | 0 | 10 | 6 | 103 |
+| last720d | 2024-10-02 | 12 | 43 | 0 | 24 | 6 | 379 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:47:40Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:48:57Z._
