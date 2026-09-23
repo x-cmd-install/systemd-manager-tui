@@ -4,7 +4,7 @@
 
 A TUI application for managing systemd services.
 
-[![x-cmd/install — systemd-manager-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/systemd-manager-tui.svg)](https://x-cmd.com/install/systemd-manager-tui)
+[![x-cmd/install — systemd-manager-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/systemd-manager-tui.svg)](https://x-cmd.com/install/systemd-manager-tui)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **5,518** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 0 | 0 | 1 | 38 |
-| last60d | 2026-07-24 | 1 | 4 | 0 | 1 | 2 | 44 |
-| 90d | 2026-06-24 | 1 | 4 | 0 | 2 | 2 | 45 |
-| last180d | 2026-03-26 | 1 | 4 | 0 | 3 | 2 | 45 |
-| 360d | 2025-09-27 | 6 | 9 | 0 | 10 | 6 | 103 |
-| last720d | 2024-10-02 | 12 | 43 | 0 | 24 | 6 | 379 |
+| 30d | 2026-08-24 | 0 | 3 | 0 | 0 | 1 | 38 |
+| last60d | 2026-07-25 | 1 | 4 | 0 | 1 | 2 | 44 |
+| 90d | 2026-06-25 | 1 | 4 | 0 | 2 | 2 | 45 |
+| last180d | 2026-03-27 | 1 | 4 | 0 | 3 | 2 | 45 |
+| 360d | 2025-09-28 | 6 | 9 | 0 | 10 | 6 | 103 |
+| last720d | 2024-10-03 | 12 | 43 | 0 | 24 | 6 | 379 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:48:57Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:41:56Z._
