@@ -48,12 +48,12 @@ Total: **5,518** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 3 | 0 | 0 | 1 | 38 |
-| last60d | 2026-07-28 | 1 | 4 | 0 | 1 | 2 | 44 |
-| 90d | 2026-06-28 | 1 | 4 | 0 | 2 | 2 | 45 |
-| last180d | 2026-03-30 | 1 | 4 | 0 | 3 | 2 | 45 |
-| 360d | 2025-10-01 | 6 | 9 | 0 | 10 | 6 | 103 |
-| last720d | 2024-10-06 | 12 | 43 | 0 | 24 | 6 | 379 |
+| 30d | 2026-08-28 | 0 | 3 | 0 | 0 | 1 | 38 |
+| last60d | 2026-07-29 | 1 | 4 | 0 | 1 | 2 | 38 |
+| 90d | 2026-06-29 | 1 | 4 | 0 | 2 | 2 | 45 |
+| last180d | 2026-03-31 | 1 | 4 | 0 | 3 | 2 | 45 |
+| 360d | 2025-10-02 | 6 | 9 | 0 | 10 | 6 | 103 |
+| last720d | 2024-10-07 | 12 | 43 | 0 | 24 | 6 | 379 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:52:14Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:24:20Z._
