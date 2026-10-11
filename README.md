@@ -14,15 +14,15 @@ x install systemd-manager-tui
 
 ## Code insight
 
-Total: **6,501** lines of code across **39** files in the top 5 languages.
+Total: **6,506** lines of code across **39** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 6,216 | 26 | 803 | 33 |
-| Sh | 192 | 1 | 25 | 1 |
+| Sh | 189 | 2 | 25 | 1 |
+| Toml | 53 | 0 | 6 | 1 |
 | Nix | 48 | 0 | 8 | 1 |
-| Toml | 45 | 0 | 5 | 1 |
-| Markdown | 0 | 73 | 47 | 3 |
+| Markdown | 0 | 53 | 39 | 3 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **6,501** lines of code across **39** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.2.5` (2026-08-03)
-- **Last commit**: 2026-10-03
+- **Latest**: `v1.3.0` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,28 +42,28 @@ Total: **6,501** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 48 · **Open PRs**: 0 · **Closed issues**: 27 · **Open issues**: 5 · **Commits**: 391
+- **Releases**: 13 · **Merged PRs**: 48 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 4 · **Commits**: 393
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 8 | 0 | 2 | 1 | 45 |
-| last60d | 2026-08-11 | 0 | 8 | 0 | 2 | 1 | 45 |
-| 90d | 2026-07-12 | 1 | 9 | 0 | 5 | 1 | 52 |
-| last180d | 2026-04-13 | 1 | 9 | 0 | 6 | 1 | 52 |
-| 360d | 2025-10-15 | 6 | 14 | 0 | 13 | 5 | 107 |
-| last720d | 2024-10-20 | 12 | 48 | 0 | 27 | 5 | 391 |
+| 30d | 2026-09-11 | 1 | 8 | 0 | 2 | 1 | 47 |
+| last60d | 2026-08-12 | 1 | 8 | 0 | 2 | 1 | 47 |
+| 90d | 2026-07-13 | 2 | 9 | 0 | 5 | 1 | 54 |
+| last180d | 2026-04-14 | 2 | 9 | 0 | 6 | 1 | 54 |
+| 360d | 2025-10-16 | 6 | 14 | 0 | 14 | 4 | 109 |
+| last720d | 2024-10-21 | 13 | 48 | 0 | 28 | 4 | 393 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui) | 7.7 MiB | `other` |
-| [systemd-manager-tui-1.2.5.aarch64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.aarch64.rpm) | 2.1 MiB | `runtime/rpm/aarch64` |
-| [systemd-manager-tui-1.2.5.x86_64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui-1.2.5.x86_64.rpm) | 2.2 MiB | `runtime/rpm/x86_64` |
-| [systemd-manager-tui_1.2.5_amd64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
-| [systemd-manager-tui_1.2.5_arm64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_arm64.deb) | 1.9 MiB | `runtime/deb/arm64` |
+| [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui) | 8.3 MiB | `other` |
+| [systemd-manager-tui-1.3.0-1.aarch64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui-1.3.0-1.aarch64.rpm) | 2.2 MiB | `runtime/rpm/aarch64` |
+| [systemd-manager-tui-1.3.0.x86_64.rpm](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui-1.3.0.x86_64.rpm) | 2.2 MiB | `runtime/rpm/x86_64` |
+| [systemd-manager-tui_1.3.0_amd64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui_1.3.0_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
+| [systemd-manager-tui_1.3.0_arm64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui_1.3.0_arm64.deb) | 2.0 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:42:57Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:41:11Z._
