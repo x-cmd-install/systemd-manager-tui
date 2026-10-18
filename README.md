@@ -42,18 +42,18 @@ Total: **6,506** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 48 · **Open PRs**: 1 · **Closed issues**: 28 · **Open issues**: 4 · **Commits**: 393
+- **Releases**: 13 · **Merged PRs**: 48 · **Open PRs**: 1 · **Closed issues**: 29 · **Open issues**: 3 · **Commits**: 393
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 5 | 1 | 2 | 1 | 11 |
-| last60d | 2026-08-18 | 1 | 8 | 1 | 2 | 1 | 47 |
-| 90d | 2026-07-19 | 2 | 9 | 1 | 5 | 1 | 54 |
-| last180d | 2026-04-20 | 2 | 9 | 1 | 6 | 1 | 54 |
-| 360d | 2025-10-22 | 6 | 14 | 1 | 14 | 4 | 109 |
-| last720d | 2024-10-27 | 13 | 48 | 1 | 28 | 4 | 393 |
+| 30d | 2026-09-18 | 1 | 5 | 1 | 2 | 1 | 9 |
+| last60d | 2026-08-19 | 1 | 8 | 1 | 2 | 1 | 47 |
+| 90d | 2026-07-20 | 2 | 9 | 1 | 5 | 1 | 53 |
+| last180d | 2026-04-21 | 2 | 9 | 1 | 6 | 1 | 54 |
+| 360d | 2025-10-23 | 6 | 14 | 1 | 15 | 3 | 109 |
+| last720d | 2024-10-28 | 13 | 48 | 1 | 29 | 3 | 393 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:15:43Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:21:21Z._
