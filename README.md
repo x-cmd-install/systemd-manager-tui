@@ -14,15 +14,15 @@ x install systemd-manager-tui
 
 ## Code insight
 
-Total: **6,506** lines of code across **39** files in the top 5 languages.
+Total: **7,868** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 6,216 | 26 | 803 | 33 |
+| Rust | 7,546 | 53 | 1,010 | 37 |
 | Sh | 189 | 2 | 25 | 1 |
-| Toml | 53 | 0 | 6 | 1 |
+| Toml | 85 | 43 | 10 | 2 |
 | Nix | 48 | 0 | 8 | 1 |
-| Markdown | 0 | 53 | 39 | 3 |
+| Markdown | 0 | 118 | 52 | 3 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **6,506** lines of code across **39** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.0` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,592 · **Forks**: 24 · **Open issues**: 32 · **Contributors**: 5
+- **Stars**: 1,592 · **Forks**: 24 · **Open issues**: 32 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 48 · **Open PRs**: 1 · **Closed issues**: 29 · **Open issues**: 3 · **Commits**: 393
+- **Releases**: 13 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 2 · **Commits**: 395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 5 | 1 | 2 | 1 | 9 |
-| last60d | 2026-08-19 | 1 | 8 | 1 | 2 | 1 | 47 |
-| 90d | 2026-07-20 | 2 | 9 | 1 | 5 | 1 | 53 |
-| last180d | 2026-04-21 | 2 | 9 | 1 | 6 | 1 | 54 |
-| 360d | 2025-10-23 | 6 | 14 | 1 | 15 | 3 | 109 |
-| last720d | 2024-10-28 | 13 | 48 | 1 | 29 | 3 | 393 |
+| 30d | 2026-09-19 | 1 | 6 | 0 | 2 | 1 | 10 |
+| last60d | 2026-08-20 | 1 | 9 | 0 | 2 | 1 | 48 |
+| 90d | 2026-07-21 | 2 | 10 | 0 | 4 | 1 | 54 |
+| last180d | 2026-04-22 | 2 | 10 | 0 | 6 | 1 | 55 |
+| 360d | 2025-10-24 | 6 | 15 | 0 | 16 | 2 | 110 |
+| last720d | 2024-10-29 | 13 | 49 | 0 | 30 | 2 | 395 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:21:21Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:31:46Z._
