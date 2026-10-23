@@ -38,22 +38,22 @@ x install systemd-manager-tui
 
 ## 流行度
 
-- **Star**: 1,594 · **Fork**: 24 · **开放 issue**: 32 · **贡献者**: 6
+- **Star**: 1,593 · **Fork**: 24 · **开放 issue**: 32 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 49 · **开放 PR**: 0 · **已关闭 issue**: 30 · **开放 issue**: 2 · **提交数**: 395
+- **发布数**: 13 · **已合并 PR**: 49 · **开放 PR**: 0 · **已关闭 issue**: 31 · **开放 issue**: 1 · **提交数**: 395
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 6 | 0 | 1 | 1 | 10 |
-| last60d | 2026-08-23 | 1 | 9 | 0 | 2 | 1 | 48 |
-| 90d | 2026-07-24 | 2 | 10 | 0 | 4 | 1 | 54 |
-| last180d | 2026-04-25 | 2 | 10 | 0 | 6 | 1 | 55 |
-| 360d | 2025-10-27 | 6 | 15 | 0 | 16 | 2 | 110 |
-| last720d | 2024-11-01 | 13 | 49 | 0 | 30 | 2 | 395 |
+| 30d | 2026-09-23 | 1 | 6 | 0 | 1 | 1 | 10 |
+| last60d | 2026-08-24 | 1 | 9 | 0 | 2 | 1 | 48 |
+| 90d | 2026-07-25 | 2 | 10 | 0 | 4 | 1 | 54 |
+| last180d | 2026-04-26 | 2 | 10 | 0 | 6 | 1 | 55 |
+| 360d | 2025-10-28 | 6 | 15 | 0 | 17 | 1 | 110 |
+| last720d | 2024-11-02 | 13 | 49 | 0 | 31 | 1 | 395 |
 
 ## Release 资产
 
@@ -65,6 +65,14 @@ x install systemd-manager-tui
 | [systemd-manager-tui_1.3.0_amd64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui_1.3.0_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
 | [systemd-manager-tui_1.3.0_arm64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui_1.3.0_arm64.deb) | 2.0 MiB | `runtime/deb/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/systemd-manager-tui) 上共有 **6** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `1.3.0` | ✅ latest |
+
 ## 改进这些数据
 
 systemd-manager-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `systemd-manager-tui` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +82,4 @@ systemd-manager-tui 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:34:26Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:38:51Z._

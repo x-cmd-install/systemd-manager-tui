@@ -38,22 +38,22 @@ Total: **7,868** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,594 · **Forks**: 24 · **Open issues**: 32 · **Contributors**: 6
+- **Stars**: 1,593 · **Forks**: 24 · **Open issues**: 32 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 2 · **Commits**: 395
+- **Releases**: 13 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 31 · **Open issues**: 1 · **Commits**: 395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 6 | 0 | 1 | 1 | 10 |
-| last60d | 2026-08-23 | 1 | 9 | 0 | 2 | 1 | 48 |
-| 90d | 2026-07-24 | 2 | 10 | 0 | 4 | 1 | 54 |
-| last180d | 2026-04-25 | 2 | 10 | 0 | 6 | 1 | 55 |
-| 360d | 2025-10-27 | 6 | 15 | 0 | 16 | 2 | 110 |
-| last720d | 2024-11-01 | 13 | 49 | 0 | 30 | 2 | 395 |
+| 30d | 2026-09-23 | 1 | 6 | 0 | 1 | 1 | 10 |
+| last60d | 2026-08-24 | 1 | 9 | 0 | 2 | 1 | 48 |
+| 90d | 2026-07-25 | 2 | 10 | 0 | 4 | 1 | 54 |
+| last180d | 2026-04-26 | 2 | 10 | 0 | 6 | 1 | 55 |
+| 360d | 2025-10-28 | 6 | 15 | 0 | 17 | 1 | 110 |
+| last720d | 2024-11-02 | 13 | 49 | 0 | 31 | 1 | 395 |
 
 ## Release assets
 
@@ -65,6 +65,14 @@ Total: **7,868** lines of code across **44** files in the top 5 languages.
 | [systemd-manager-tui_1.3.0_amd64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui_1.3.0_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
 | [systemd-manager-tui_1.3.0_arm64.deb](https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui_1.3.0_arm64.deb) | 2.0 MiB | `runtime/deb/arm64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/systemd-manager-tui). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.3.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `systemd-manager-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -74,4 +82,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:34:26Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:38:50Z._
