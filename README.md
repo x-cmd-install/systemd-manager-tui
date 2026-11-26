@@ -38,7 +38,7 @@ Total: **7,868** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,611 · **Forks**: 25 · **Open issues**: 32 · **Contributors**: 6
+- **Stars**: 1,610 · **Forks**: 25 · **Open issues**: 32 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,868** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 1 | 6 | 0 | 1 | 1 | 10 |
-| 90d | 2026-08-27 | 1 | 9 | 0 | 2 | 1 | 48 |
-| last180d | 2026-05-29 | 2 | 10 | 0 | 5 | 1 | 55 |
-| 360d | 2025-11-30 | 6 | 14 | 0 | 17 | 1 | 106 |
-| last720d | 2024-12-05 | 13 | 49 | 0 | 31 | 1 | 395 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 1 | 6 | 0 | 1 | 1 | 0 |
+| 90d | 2026-08-28 | 1 | 9 | 0 | 2 | 1 | 0 |
+| last180d | 2026-05-30 | 2 | 10 | 0 | 5 | 1 | 0 |
+| 360d | 2025-12-01 | 6 | 14 | 0 | 17 | 1 | 0 |
+| last720d | 2024-12-06 | 13 | 49 | 0 | 31 | 1 | 395 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for systemd-manager-tui lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:21:08Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:06:29Z._
